@@ -1,0 +1,10 @@
+.env
+entorno_comentarios/
+modelo_original/
+mejor_modelo/
+robertuito-sentiment-finetuned/
+clasificados.csv
+clasificados_limpio.csv
+predecir.csv
+clasificacion_resultado_original.csv
+clasificacion_resultado_entrenado.csv
