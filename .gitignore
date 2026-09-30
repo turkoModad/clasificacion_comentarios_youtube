@@ -8,3 +8,4 @@ clasificados_limpio.csv
 predecir.csv
 clasificacion_resultado_original.csv
 clasificacion_resultado_entrenado.csv
+palabras_nltk/
